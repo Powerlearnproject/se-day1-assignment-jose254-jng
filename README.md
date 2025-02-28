@@ -55,12 +55,16 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 IDE is a software platform that facilitates the creation of other software applications by providing a space to write,compile, and debug code,sometimes with value-adding tools that reduce the development efforts.eg Visual Code Studio(VSCode)
 importance
-.Programming languages have rules for how statements must be structured.Because IDE knows these rules,it contains many intelligent features 
+.Programming languages have rules for how statements must be structured.Because IDE knows these rules,it contains many intelligent features for automatically writing or editing the source code.
+.An IDE can format the written text by automatically making some words bold or italic,or by using different font colours.
+.An IDE can make suggestions to complete a code statement when the developer begins typing.
+.IDEs increase programer productivity by performing repeatable development tasks that are typically part of code change
+VCS-are software tools that help software teams manage changes to source code over time.
+Examples of VCS are;collaboration,change tracking,branching and merging,error recovery.
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
 
 #Part 2: Introduction to AI and Prompt Engineering
 
