@@ -101,4 +101,5 @@ Draw a full-body potrait of a young woman with long brown hair,wearing a red jac
 
 
 Importance of an improved prompt:
-Clarity:The improved prompt specifies what is being asked(
+Clarity:The improved prompt specifies what is being asked(a fool-body potrait)rather than just a "person"
+Specific Details:Describing the woman's appearance 
