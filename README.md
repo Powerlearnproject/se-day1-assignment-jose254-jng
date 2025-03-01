@@ -94,7 +94,9 @@ Improved user experience-Prompt engineering makes it easy for users to obtain re
 Increased flexibility- A prompt engineer can create prompts with domain-neautral instructions highlighting logical links and broad patterns.
 Developer control-Prompt engineering gives delelopers more control over users'interactions with AI.Effective prompts provide intent and establish context to the large languagae models.
 
-Provide an example of a vague prompt and then improve it by making it clear,specific,and concise.Explain why the improved prompt is more effective.https://sl.bing.net/ehQ2fDsOLO8
+Provide an example of a vague prompt and then improve it by making it clear,specific,and concise.Explain why the improved prompt is more effective.
 
+Draw a picture of a person.
+Draw a full-body potrait of a young woman with long brown hair,wearing a red jacket and blue jeans,standing in a park on a sunny day with trees and grass in the background.
 
 
