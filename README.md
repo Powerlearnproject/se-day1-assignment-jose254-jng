@@ -70,12 +70,14 @@ Solution:Adopt agiles methodologies,such as scrum,to streamline workflows by div
 Solution:Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
 -Software security-Programming secure software is a complex and challenging task.
 Solution:research ways to defend against hacking,malware,phishing,insider and third-party threats.
+-Software Accessibility and Usability-Overly complex software can frustrate or confuse users.
+Solution:Use scalable architecture,emphasize reliability.
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-#Part 2: Introduction to AI and Prompt Engineering
-
-
-Define prompt engineering and discuss its importance in interacting with AI models.
-
-
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+-Unit tests-Are close to the source of an applicatioan,they consist in testing individual methods and functions of the classes,components,or modules used by your software.
+Importance:it ensures tht each units performs its intended function correctly isolated from other components.
+-Intergrated tests-Verify that different modules or services used by your application work well together.
+Importance:Help to ensure data flows smoothly between modules and interfaces work as expected.
+-System test-Focus on the entire software system as a whole,including all fuctionalities and interactions.
+Importance:It helps to verify that the system meets all fuctional and non-fuctional requirements,including perfomance,usability and security.
+-Acceptance tests- Are formal tests that verify if a system satisfies business requierements.
+Importance:Whether the software meets the needs of the end-user and is ready for deployment.
