@@ -81,3 +81,20 @@ Importance:Help to ensure data flows smoothly between modules and interfaces wor
 Importance:It helps to verify that the system meets all fuctional and non-fuctional requirements,including perfomance,usability and security.
 -Acceptance tests- Are formal tests that verify if a system satisfies business requierements.
 Importance:Whether the software meets the needs of the end-user and is ready for deployment.
+
+
+#Part 2:Introduction to AI and Prompt Engineering
+
+
+Define prompt engineering and discuss its importance in interacting with AI models.
+
+Prompt engineering is the process where you guide generative AI solutions to generate desired outputs.
+Importance:
+Improved user experience-Prompt engineering makes it easy for users to obtain relevant results in the first prompt.It helps mitigate bias that may be present from existing human bias in the large language models` training data.
+Increased flexibility- A prompt engineer can create prompts with domain-neautral instructions highlighting logical links and broad patterns.
+Developer control-Prompt engineering gives delelopers more control over users'interactions with AI.Effective prompts provide intent and establish context to the large languagae models.
+
+Provide an example of a vague prompt and then improve it by making it clear,specific,and concise.Explain why the improved prompt is more effective.https://sl.bing.net/ehQ2fDsOLO8
+
+
+
