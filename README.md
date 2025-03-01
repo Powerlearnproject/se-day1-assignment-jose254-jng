@@ -100,3 +100,5 @@ Draw a picture of a person.
 Draw a full-body potrait of a young woman with long brown hair,wearing a red jacket and blue jeans,standing in a park on a sunny day with trees and grass in the background.
 
 
+Importance of an improved prompt:
+Clarity:The improved prompt specifies what is being asked(
